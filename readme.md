@@ -22,8 +22,8 @@ This repository contains a FastAPI-based application for predicting stock prices
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/stock-price-prediction-api.git
-   cd stock-price-prediction-api
+   git clone https://github.com/Hansder01/LSTM-Based-Stock-Price-Prediction-API.git
+   cd LSTM-Based-Stock-Price-Prediction-API
    ```
 
 2. Create and activate a Python virtual environment (optional):
